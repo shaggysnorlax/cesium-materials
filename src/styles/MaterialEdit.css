@@ -1,0 +1,47 @@
+.material-edit {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-evenly;
+    border: 1px;
+    border-style: solid;
+}
+
+/* .row1 {
+    grid-row: 1;
+}
+
+.row2 {
+    grid-row: 2;
+}
+
+.row3 {
+    grid-row: 3;
+} */
+
+.name-input {
+    grid-column: 1;
+}
+
+.color-input {
+    grid-column: 2;
+}
+
+.volume-input {
+    grid-column: 1;
+}
+
+.cost-input {
+    grid-column: 2;
+}
+
+.date-input {
+    grid-column: 1;
+}
+
+.color-picker {
+    grid-column: 3/4;
+}
+
+.date-picker {
+    background-color: #fff;
+}

@@ -1,0 +1,59 @@
+.materials-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.button-container {
+    display: flex;
+    gap: 10px;
+    color: #ffffff;
+}
+
+.activity-container {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+
+.clickable-list {
+    border: 1px;
+    border-style: solid;
+}
+
+.add-button {
+    background-color: #0076dc;
+    border: none;
+}
+
+.delete-button {
+    background-color: #ff424b;
+    border: none;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    background-color: #24242b;
+}
+
+.active-item {
+    display: flex;
+    align-items: baseline;
+    background-color: #000042;
+    color: #ffffff;
+}
+
+.item {
+    display: flex;
+    align-items: baseline;
+    background-color: #101013;
+    color: #ffffff;
+}
+
+.circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+}

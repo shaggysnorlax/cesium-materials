@@ -1,0 +1,12 @@
+{
+  "materials": [
+    {
+      "id": "b18ee769-c29f-41b5-9be4-e0e37ea76c88",
+      "name": "New Material",
+      "volume": 0,
+      "cost": "0",
+      "color": "#42d8b7",
+      "date": null
+    }
+  ]
+}
